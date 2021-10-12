@@ -1,6 +1,6 @@
 # Video Indexes
 
-Visit [the home page for the video index wiki](wiki).
+Visit [the home page for the video index wiki](https://github.com/fwd-2021/video-indexes/wiki).
 
 ## How to Contribute
 
